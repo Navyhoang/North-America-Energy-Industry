@@ -8,7 +8,9 @@
 **Data Type:** Structured data (Nemerical and Categorical), Non time-series. Since it's a structured dataset, the clean dataset will be stored in a SQL database such as SQL Elephant or PostgreSQL.
 **Visualization Method:** Python libraries such as MatplotLib, Seaborn. In addition, a dashboard will also be created using Power BI.
 **Data Source:** A static dataset (not streaming) called "PowerPlantsRenewGE1MW_NorthAmerica_201708.xlxs" was obtained from Government of Canada website, https://open.canada.ca/data/en/dataset/490db619-ab58-4a2a-a245-2376ce1840de
+
 Dataset includes:
+
 *   Stations with installed capacipy of more than 1MG electrical energy generated from renewable energy sources.
 *   Data were collected for all countries in North America
 *   Renewable Energy sources include: biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, and wind.
@@ -32,5 +34,6 @@ Dataset includes:
 * Mexico is much more restricted to only 2 energy sources, Hydroelectric and Wind.
 
 **Next Step**
+
 Load clean dataset onto Elephant SQL (PostgreSQL).
 Join with other datasets and create insightful dashboard.
