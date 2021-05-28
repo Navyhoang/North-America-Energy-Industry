@@ -19,6 +19,12 @@ Dataset includes:
 *   Data were collected for all countries in North America
 *   Renewable Energy sources include: biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, and wind.
 
+# Techniques:
+
+* Pandas: performed data pre-processing steps including: explore datashape, deal with missing and inconsistent datasets, drop null and duplicated values.
+* Matplotlib: created pie and bar charts to visualize results. 
+
+
 # Brief Overview of Final Results
 
 **Questions to answer:**
