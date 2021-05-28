@@ -4,9 +4,13 @@
 # Project Objectives and Dataset Source
 
 **Objective:** This project is created to explore, analyze, and understand the current energy production from renewable energy sources in North America.
+
 **Analytics Type:** Descriptive Analytics. Thus, this project will summarize key features of the dataset to describe what happened in the past and provide digestible snapshots for visualization purposes.
+
 **Data Type:** Structured data (Nemerical and Categorical), Non time-series. Since it's a structured dataset, the clean dataset will be stored in a SQL database such as SQL Elephant or PostgreSQL.
+
 **Visualization Method:** Python libraries such as MatplotLib, Seaborn. In addition, a dashboard will also be created using Power BI.
+
 **Data Source:** A static dataset (not streaming) called "PowerPlantsRenewGE1MW_NorthAmerica_201708.xlxs" was obtained from Government of Canada website, https://open.canada.ca/data/en/dataset/490db619-ab58-4a2a-a245-2376ce1840de
 
 Dataset includes:
@@ -35,5 +39,5 @@ Dataset includes:
 
 **Next Step**
 
-Load clean dataset onto Elephant SQL (PostgreSQL).
-Join with other datasets and create insightful dashboard.
+* Load clean dataset onto Elephant SQL (PostgreSQL).
+* Join with other datasets and create insightful dashboard.
