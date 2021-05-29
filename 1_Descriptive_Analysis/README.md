@@ -50,6 +50,10 @@ Dataset includes:
 * Load clean dataset onto Elephant SQL (PostgreSQL).
 * Join with other datasets and create insightful dashboard.
 
+**Facility and Capacity Map:**
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Facilities_capacity_map.PNG "Facility Map")
+
+
 **Author:**
 
 * Navy (Thao) Hoang
