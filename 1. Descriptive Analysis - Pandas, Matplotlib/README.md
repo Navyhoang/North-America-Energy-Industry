@@ -52,7 +52,7 @@ Dataset includes:
 
 **Facility Map:**
 Inline-style: 
-![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/Descriptive Analysis - Pandas, Matplotlib/ results/Facilities_capacity_map.png "Facilities and Capacity")
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/1. Descriptive Analysis - Pandas, Matplotlib/results/Facilities_capacity_map.PNG"Facilities and Capacity")
 
 **Author:**
 
