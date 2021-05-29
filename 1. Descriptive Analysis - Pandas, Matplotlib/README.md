@@ -22,7 +22,8 @@ Dataset includes:
 # Techniques:
 
 * Pandas: performed data pre-processing steps including: explore datashape, deal with missing and inconsistent datasets, drop null and duplicated values.
-* Matplotlib: created pie and bar charts to visualize results. 
+* Matplotlib, Seaborn: created pie chart, bar charts, boxplot to visualize results.
+* Folium: Interactive map. 
 
 
 # Brief Overview of Final Results
@@ -32,6 +33,7 @@ Dataset includes:
 * Capacity of each country
 * Capacity of each State
 * Capacity by source of each country
+* An interactive map to visualize facilities and thier capacities
 
 **Results summary for the period between 2000-2017:**
 
