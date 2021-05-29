@@ -49,3 +49,11 @@ Dataset includes:
 
 * Load clean dataset onto Elephant SQL (PostgreSQL).
 * Join with other datasets and create insightful dashboard.
+
+**Author:**
+
+* Navy (Thao) Hoang
+* Github: https://github.com/Navyhoang
+* Personal Website: https://navyhoang.github.io/
+* LinkedIn: https://www.linkedin.com/in/thao-navy-hoang/
+* Email: Navyhoang@outlook.com
