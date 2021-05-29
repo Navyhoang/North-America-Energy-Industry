@@ -54,9 +54,7 @@ Dataset includes:
 ![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Facilities_capacity_map.PNG "Facility Map")
 
 
-**Author:**
-
-* Navy (Thao) Hoang
+**Author:** Navy (Thao) Hoang
 * Github: https://github.com/Navyhoang
 * Personal Website: https://navyhoang.github.io/
 * LinkedIn: https://www.linkedin.com/in/thao-navy-hoang/
