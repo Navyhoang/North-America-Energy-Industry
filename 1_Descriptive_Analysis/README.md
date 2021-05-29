@@ -38,12 +38,29 @@ Dataset includes:
 **Results summary for the period between 2000-2017:**
 
 * Within North America, U.S is the leader in electrical power production with 67.8% contribution to the total capacity produced within North America. Canada follows with 27.5% and finally Mexico with 4.8%.
+
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_country_PieChart.png "Capacity by country")
+
 * Within Canada, the top 3 provinces that produce electrical power are Quebec (44,402 MW), follows by British Columbia (17,642 MW) and Ontario (15,996 MW). The rest of the provinces produce less than 7000 kW each, thus making up small percentage in the contribution to the total power production. The breakdown of Capacity by source for each state is also provided. For example, Hydroelectric power is the main energy source in Canada and is most produced in Quebec, BC, Ontario, Newfoundland, and BC in descending order. * The second most important energy source in Canada is Wind, which is most produced in Ontario, Quebec, and Alberta in descending order. Solar energy source is mainly produced in Ontatio.
-* Within US, the top 3 states that produce electrical power are California (34,199 MW), follows by Washington (25,000 MW) and Texas (23,152 MW). The rest of the states produce less than 12000 kW each. The breakdown of Capacity by source for the top 20 states are also provided. For example, Hydroelectric power is the main source in Washington, Oregon, Newyork, and Arizona.
-* Within Mexico, the top 3 territories that produce electrical power are Chiapas (4860 MW), follows by Oaxaca (2702 MW) and Nayarit (2543 MW). The rest of the territories produce less than 1800 kW each. The breakdown of Capacity by source is also provided. For example, Hydroelectric power is the main source in Chiapas, Nayarit, Guerrero, Sinaloa, etc.
-* US has the diversified power industry. The energy is produced from 10 major sources. The top 5 major sources are Wind, Hydroelectric, Solar, Pumped Storage, and Biomass in the descending order.
 * Canada is much more restricted to only 4-5 energy sources. The majority of power is produced from Hydroelectric, follow by Wind. A much smaller amount of energy is produced from Solarand Biomass.
+
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_provinces_Canada_Barchart.png "Capacity by provinces (Canada)")
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_Source_Canada.png "Capacity by source (Canada)")
+
+* Within US, the top 3 states that produce electrical power are California (34,199 MW), follows by Washington (25,000 MW) and Texas (23,152 MW). The rest of the states produce less than 12000 kW each. The breakdown of Capacity by source for the top 20 states are also provided. For example, Hydroelectric power is the main source in Washington, Oregon, Newyork, and Arizona.
+* US has the diversified power industry. The energy is produced from 10 major sources. The top 5 major sources are Wind, Hydroelectric, Solar, Pumped Storage, and Biomass in the descending order.
+
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_states_US_Barchart.png "Capacity by states (US)")
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_Source_US.png "Capacity by source (US)")
+
+* Within Mexico, the top 3 territories that produce electrical power are Chiapas (4860 MW), follows by Oaxaca (2702 MW) and Nayarit (2543 MW). The rest of the territories produce less than 1800 kW each. The breakdown of Capacity by source is also provided. For example, Hydroelectric power is the main source in Chiapas, Nayarit, Guerrero, Sinaloa, etc.
 * Mexico is much more restricted to only 2 energy sources, Hydroelectric and Wind.
+
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_states_Mexico.png "Capacity by states (Mexico)")
+![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Capacity_by_Source_Mexico.png "Capacity by source (Mexico)")
+
+
+
 
 **Next Step**
 
