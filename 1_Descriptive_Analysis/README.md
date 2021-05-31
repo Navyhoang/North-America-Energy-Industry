@@ -17,7 +17,7 @@ Dataset includes:
 
 *   Stations with installed capacipy of more than 1MG electrical energy generated from renewable energy sources.
 *   Data were collected for all countries in North America
-*   All Energy sources include: biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, and wind.
+*   All Energy sources include: coal, NG, Petroleum, Nuclear, biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, tidal, and wind.
 
 # Techniques:
 
