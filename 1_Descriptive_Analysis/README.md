@@ -3,11 +3,11 @@
 
 # Project Objectives and Dataset Source
 
-**Objective:** This project is created to explore, analyze, and understand the current energy production from renewable energy sources in North America.
+**Objective:** This project is created to explore, analyze, and understand the current energy production from all energy sources in North America.
 
 **Analytics Type:** Descriptive Analytics. Thus, this project will summarize key features of the dataset to describe what happened in the past and provide digestible snapshots for visualization purposes.
 
-**Data Type:** Structured data (Nemerical and Categorical), Non time-series. Since it's a structured dataset, the clean dataset will be stored in a SQL database such as SQL Elephant or PostgreSQL.
+**Data Type:** Structured data (Nemerical and Categorical), Non time-series. Since it's a structured dataset, the clean dataset will be later stored in a SQL database such as SQL Elephant or PostgreSQL.
 
 **Visualization Method:** Python libraries such as MatplotLib, Seaborn. In addition, a dashboard will also be created using Power BI.
 
@@ -17,7 +17,7 @@ Dataset includes:
 
 *   Stations with installed capacipy of more than 1MG electrical energy generated from renewable energy sources.
 *   Data were collected for all countries in North America
-*   Renewable Energy sources include: biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, and wind.
+*   All Energy sources include: biomass, hydroelectric, pumped-storage hydroelectric, geothermal, solar, and wind.
 
 # Techniques:
 
@@ -65,7 +65,7 @@ Dataset includes:
 **Next Step**
 
 * Load clean dataset onto Elephant SQL (PostgreSQL).
-* Join with other datasets and create insightful dashboard.
+* Join with other datasets and create insightful dashboard in Power BI.
 
 **Facility and Capacity Map:**
 ![alt text](https://github.com/Navyhoang/North-America-Energy-Industry/blob/main/1_Descriptive_Analysis/results/Facilities_capacity_map.PNG "Facility Map")
